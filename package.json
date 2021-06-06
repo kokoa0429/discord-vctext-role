@@ -1,0 +1,29 @@
+{
+  "name": "discord-vctext-role",
+  "version": "1.0.0",
+  "description": "discord-vctext-role",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/main.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokoa0429/discord-vctext-role.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokoa0429/discord-vctext-role/issues"
+  },
+  "homepage": "https://github.com/kokoa0429/discord-vctext-role#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.1",
+    "eslint": "^7.28.0",
+    "prettier": "^2.3.1",
+    "typescript": "^4.3.2"
+  }
+}
